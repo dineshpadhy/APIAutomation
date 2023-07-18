@@ -1,0 +1,4 @@
+7696406
+{"status":"true","msg":"Add  data success"}
+{"status":"true","msg":"Add  data success"}
+{"status":"true","data":{"first_name":"Testing","middle_name":"L","last_name":"K","date_of_birth":"12/12/1991","TechnicalDetails":[{"id":157847,"language":["Java","Python"],"yearexp":"2","lastused":"2019","st_id":"7696406"}],"Address":[{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"7696406"},{"Permanent_Address":{"House_Number":null,"City":null,"State":null,"Country":null,"PhoneNumber":null},"Current_Address":null,"stId":"7696406"}]}}
