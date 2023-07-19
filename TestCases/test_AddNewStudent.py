@@ -33,4 +33,4 @@ def test_get_student_data():
     response_data = response.json()
     id = jsonpath.jsonpath(response_data,"data.id")
     print(response.text)
-    assert id[0] == 7696249
+    assert id[0] == 769624
