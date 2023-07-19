@@ -28,7 +28,6 @@ def test_get_student_data():
     print(response.text)
     assert id_response[0] == id[0]
 
-
 def test_delete_student_data():
     API_URL="https://thetestingworldapi.com/api/studentsDetails/"+str(id[0])
     response = requests.delete(API_URL)
